@@ -15,14 +15,14 @@ public class TestHarness {
 
 	public static void main(String[] args) throws InterruptedException {
 		init();
-		
+		//checking to push
 		//TODO: 2 cases:
 		//display non equality using your overriden equals method
 		//display equality using your overriden equals method
 
 		TEST_Equals(p1, p2);
 		TEST_Equals(p3, p3);
-		
+		//another comment
 		//TODO: 2 cases:
 		//display hashcode case that demonstrates collision
 		//display hashcode case that demonstrates non- collision
