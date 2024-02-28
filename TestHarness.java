@@ -22,7 +22,7 @@ public class TestHarness {
 
 		TEST_Equals(p1, p2);
 		TEST_Equals(p3, p3);
-		
+		//another comment
 		//TODO: 2 cases:
 		//display hashcode case that demonstrates collision
 		//display hashcode case that demonstrates non- collision
