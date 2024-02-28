@@ -15,7 +15,7 @@ public class TestHarness {
 
 	public static void main(String[] args) throws InterruptedException {
 		init();
-		
+		//checking to push
 		//TODO: 2 cases:
 		//display non equality using your overriden equals method
 		//display equality using your overriden equals method
